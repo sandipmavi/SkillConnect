@@ -1,0 +1,13 @@
+<svg width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="100" rx="20" fill="#2563EB"/>
+  <g transform="translate(20, 20)">
+    <!-- Handshake Icon -->
+    <path d="M20 20 L30 30 L40 20 L50 30 L60 20" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="25" cy="35" r="5" fill="white"/>
+    <circle cx="45" cy="35" r="5" fill="white"/>
+  </g>
+
+  <text x="90" y="60" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">
+    Skill<span style="font-weight:300;">Connect</span>
+  </text>
+</svg>
